@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-@media (max-width:400px){ 
+@media (max-width:800px){ 
 
     body{
         background-image: url(/img/bg.jpg);
@@ -11,7 +11,7 @@
     }
 
     .encabezado {
-        height: 270px;
+        height: 350px;
         width: auto;
         background-image: url(https://media.giphy.com/media/3oz8xB06mHyoGE7ZoQ/giphy.gif);
     }
