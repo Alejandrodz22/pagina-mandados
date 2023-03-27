@@ -3,21 +3,18 @@
     padding: 0;
 }
 
-@media (max-width:500px){ 
+@media (max-width:800px){ 
 
     body{
-        display: flex;
-        align-items: center;
-        justify-content: center;
         background-image: url(/img/bg.jpg);
         background-attachment: fixed;
     }
 
     .encabezado {
-        display: flex;
-        align-items: center;
-        height: 270px;
-        width: 300px;
+        margin: 0 auto;
+        position: relative;
+        height: 250px;
+        width: 400px;
         background-image: url(https://media.giphy.com/media/3oz8xB06mHyoGE7ZoQ/giphy.gif);
         background-size: cover;
     }
@@ -43,7 +40,7 @@
     .Descarga {
         border-radius: 10px;
         margin: 0 auto;
-        width: 400px;
+        width: 300px;
         height: 200px;  
         border: 1px solid rgb(255, 102, 0);
         background-image: url(https://media.giphy.com/media/hXYlYBixtHEFq/giphy.gif);
