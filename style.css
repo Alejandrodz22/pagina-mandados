@@ -6,7 +6,7 @@
 @media (max-width:800px){ 
 
     body{
-        background-image: url(/img/bg-madados.png);
+        background-image: url(/img/bg-mandados.png);
         background-size: contain;
     }
 
@@ -46,7 +46,7 @@
         text-align: center;
         position: relative;
         top: -26px;
-        border-top: #ff7300 2px solid;
+        border-top: #ff7300 4px solid;
     }
 
     .Descarga {
@@ -74,7 +74,7 @@
         top: -130px;
         left: 20px;
         width: 320px;
-        border-bottom: 2px solid rgb(255, 81, 0);
+        border-bottom: 4px solid rgb(255, 81, 0);
 
     }
 
