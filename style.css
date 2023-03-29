@@ -6,7 +6,8 @@
 @media (max-width:800px){ 
 
     body{
-        background-image: url(/img/bg-manda2.png);
+        background-image: url(/img/bg-madados.png);
+        background-size: contain;
     }
 
     .encabezado {
