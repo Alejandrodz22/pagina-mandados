@@ -5,11 +5,6 @@
 
 @media (max-width:800px){ 
 
-    body{
-        background-image: url(/img/bg-mandados.png);
-        background-size: contain;
-    }
-
     .encabezado {
         top: 5px;
         margin: 0 auto;
@@ -87,7 +82,7 @@
         background-color: rgb(190, 190, 190);
         display: inline-block;
         padding: 10px 20px;
-        background-color: #ff7300;
+        background-color: #ffae00;
         color: #fff;
         text-decoration: none;
         border-radius: 5px;
